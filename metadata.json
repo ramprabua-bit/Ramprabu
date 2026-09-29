@@ -1,0 +1,6 @@
+{
+  "name": "Sri Vel AC Services",
+  "description": "Sri Vel Enterprises AC Services & Repairs - Technician scheduling, automated reminders, digital invoices with UPI & Stripe, customer portal & analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
